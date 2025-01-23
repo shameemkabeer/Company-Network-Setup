@@ -159,6 +159,11 @@ Export configurations for reference.
 Use fewer routers by leveraging VLANs and a single router for inter-department connectivity.
 Optimize topologies to minimize cabling and hardware costs.
 
+## 🖼️ Screenshot
+
+![NexGen](https://github.com/user-attachments/assets/8abce5de-9caf-40a9-84a1-39f6b926f402)
+
+
 ### 📚 Check out my article about the project: [Linkedin](https://www.linkedin.com/pulse/network-design-nexgen-software-company-mohamed-shameem-pa-moi5c/?trackingId=j%2BuJ6ei8R%2BaVTyt540QY%2Fw%3D%3D)
 
 ## 🤝 Contributing
